@@ -1,4 +1,4 @@
-# Heuss L'enfoiré – Moulaga [Sped up]
+# Heuss L'enfoiré – Moulaga [Sped up]（feat. JUL）
 
 > **歌詞登録ステータス：同期歌詞あり**
 
