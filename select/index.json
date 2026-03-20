@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Moulaga [Sped up]（feat. JUL）",
+  "base_artist": "Heuss L'enfoiré",
+  "createdAt": "2026-03-20T17:41:07.745389Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Moulaga (Sped up) (feat. JUL)",
+      "artist": "Heuss L'enfoiré",
+      "has_synced": true,
+      "path": "select/01_Moulaga_(Sped_up)_(feat._JUL)_Heuss_L'enfoiré.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Moulaga [Sped up] (feat. JUL)",
+      "artist": "Heuss L'enfoiré",
+      "has_synced": true,
+      "path": "select/02_Moulaga_[Sped_up]_(feat._JUL)_Heuss_L'enfoiré.lrc"
+    }
+  ]
+}
